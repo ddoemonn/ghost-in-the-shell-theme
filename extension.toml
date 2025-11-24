@@ -1,0 +1,7 @@
+id = "ghost-in-the-shell-theme"
+name = "Ghost in the Shell Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Ozzy (ddoemonn) <https://github.com/ddoemonn>"]
+description = "A cyberpunk-inspired theme based on Ghost in the Shell, featuring neon greens, deep cyans, and dark backgrounds"
+repository = "https://github.com/ddoemonn/ghost-in-the-shell-theme"
